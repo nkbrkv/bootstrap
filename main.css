@@ -1,0 +1,28 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.wrapp {
+  height: 100vh;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: darkgray;
+}
+.wrapp .container {
+  width: 600px;
+  height: 600px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.wrapp .container input {
+  margin-bottom: 10px;
+}
+.wrapp .container button {
+  margin-bottom: 5px;
+}
+
+/*# sourceMappingURL=main.css.map */
